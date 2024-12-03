@@ -1,0 +1,18 @@
+h1 {
+    font-size: 37px;
+    color: rgb(241, 218, 187);
+}
+input {
+    margin-right: 20px;
+    border-radius: 5px;
+    border: 2px solid black;
+    height: 25px;
+    background-color: #f4e8d9;
+}
+button{
+    border-radius: 5px;
+    border: 2px solid black;
+    height: 25px;
+    width: 50px;
+    background-color: #f4e8d9;
+}
